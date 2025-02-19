@@ -1,0 +1,44 @@
+_repo: Koning-Hendrik-de-Zesde_75268
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Burgersdijk, L. A. J. (Leendert Alexander Johannes)
+    aliases:
+    - Burgersdijk, Leendert Alexander Johannes
+    - Burgersdijk, Dr. L.A.J.
+    - Burgersdijk, Dr. L. A. J.
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '25415'
+    url: http://www.gutenberg.org/2009/agents/25415
+    wikipedia: https://nl.wikipedia.org/wiki/Leendert_Burgersdijk
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: https://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2025-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75268'
+language: nl
+pgterms:marc905: 20060329102432shakespear
+pgterms:marc906: '1898'
+pgterms:marc907: NL
+production_note: Produced by Jeroen Hellingman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg.
+publication_note: '  $aLeiden :$bA.W. Sijthoff, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Koning Hendrik de Zesde
+url: http://www.gutenberg.org/ebooks/75268
